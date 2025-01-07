@@ -6,10 +6,10 @@ Este projeto consiste em uma réplica estilizada da página inicial do Spotify, 
 ## Demonstração Responsiva
 
 ### Versão Desktop
-![Versão Desktop](images/desktop.png)
+![Versão Desktop](desktop.png)
 
 ### Versão Tablet
-![Versão Tablet](images/tablet.png)
+![Versão Tablet](tablet.png)
 
 ### Versão Mobile
-![Versão Mobile](images/mobile.png)
+![Versão Mobile](mobile.png)
